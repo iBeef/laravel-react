@@ -7,8 +7,8 @@
 <p>This is the list of modifications that have been made:</p>
 
 -   /routes/web.php - Make all requests go to "/"
--   /resources/views/app.blade.php - Renames to app.blade.php and setup to load css from scss files and React app.
--   /resources/js - Added components folder,tidied up index.js and created a basic app being run from App.js
+-   /resources/views/app.blade.php - Renamed to app.blade.php and setup to load css from scss files and React app.
+-   /resources/js - Added components folder, tidied up index.js and created a basic app being run from App.js
 -   /resources/sass - Added some very basic reset styling to app.scss
 -   /package.json - Added @babel/plugin-proposal-class-properties so class properties can be used within react classes.
 -   /.babelrc - Setup to run @babel/plugin-proposal-class-properties
@@ -48,4 +48,6 @@ npm run dev
 npm run watch
 ```
 
-## Get Developing!
+<p>Don't forget to delete the .git folder and initialise your own git project.</p>
+
+## Get Developing & Enjoy!
