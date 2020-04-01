@@ -49,5 +49,3 @@ npm run watch
 ```
 
 ## Get Developing!
-
-s
